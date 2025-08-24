@@ -1,5 +1,4 @@
 # SCT_SD_1
-GUI-based Temperature Converter using Python Tkinter
 🌡️ Temperature Converter (Python Tkinter)
 
 A simple **GUI-based Temperature Converter** built with Python’s **Tkinter** library.  
